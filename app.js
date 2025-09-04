@@ -1,0 +1,1 @@
+console.log("Sua inscrição foi realizada com sucesso!");
